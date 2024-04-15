@@ -1,6 +1,7 @@
 library(tidyverse)
 
 #https://stats.oecd.org/index.aspx?lang=en
+#上記URLよりcsvファイルをダウンロードしたものが"HEALTH_REAC_24022024233005711.csv"
 df_base <- read_csv("HEALTH_REAC_24022024233005711.csv") %>%
   mutate(var_measure = paste(Variable, Measure, sep = " ")) %>%
   select(var_measure, Country, Year, Value) %>%
@@ -72,35 +73,3 @@ map(1:nrow(df_rank), ~{
   ggsave(df_rank$folder_file_name[.x], plot = g_5,
          width = 4093, height = 2894, units = c("px"))
 })
-
-# 
-# df_filter <- df_latest_year %>%
-#   filter(var_measure == df_rank$variable[1]) %>%
-#   mutate(jpn = if_else(Country == "Japan", 1, 0),
-#          graph_color = if_else(Country == "Japan", "red", "blue")) %>%
-#   arrange(Value) %>%
-#   arrange(jpn) %>%
-#   mutate(Country = factor(Country, levels = unique(Country)))
-# df_jpn_filter <- df_jpn %>%
-#   filter(var_measure == df_rank$variable[1]) %>%
-#   arrange(Year)
-# #折れ線グラフの均等化
-# mapped_years <- seq(from = 1, to = nrow(df_filter),
-#                     length.out = nrow(df_jpn_filter))
-# df_jpn_filter <- df_jpn_filter %>%
-#   mutate(MappedYear = mapped_years)
-# 
-# #ylim()の上限設定
-# max_value <- max(max(df_filter$Value), max(df_jpn_filter$Value))
-# 
-# g_5 <- ggplot(data = df_filter, aes(x = Country, y = Value)) +
-#   geom_bar(stat = "identity", aes(fill = graph_color), show.legend = FALSE) +
-#   scale_fill_manual(values = c("red" = "red", "blue" = "blue")) +
-#   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-#   labs(title = unique(df_filter$var_measure)) +
-#   ylim(c(0, max_value)) +
-#   geom_line(data = df_jpn_filter,
-#             aes(x = MappedYear, y = Value), colour = "red",
-#             linewidth = 1)
-# ggsave(df_rank$folder_file_name[1], plot = g_5,
-#        width = 4093, height = 2894, units = c("px"))
