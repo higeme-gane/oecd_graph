@@ -1,0 +1,471 @@
+var_measure,Country,Year,Value
+Medical graduates Number,Australia,2010,2662
+Medical graduates Number,Australia,2011,3011
+Medical graduates Number,Australia,2012,3179
+Medical graduates Number,Australia,2013,3573
+Medical graduates Number,Australia,2014,3595
+Medical graduates Number,Australia,2015,3751
+Medical graduates Number,Australia,2016,3858
+Medical graduates Number,Australia,2017,3800
+Medical graduates Number,Australia,2018,3958
+Medical graduates Number,Australia,2019,4022
+Medical graduates Number,Australia,2020,3839
+Medical graduates Number,Australia,2021,3945
+Medical graduates Number,Austria,2010,1726
+Medical graduates Number,Austria,2011,1466
+Medical graduates Number,Austria,2012,1413
+Medical graduates Number,Austria,2013,1170
+Medical graduates Number,Austria,2014,1259
+Medical graduates Number,Austria,2015,1255
+Medical graduates Number,Austria,2016,1218
+Medical graduates Number,Austria,2017,1248
+Medical graduates Number,Austria,2018,1346
+Medical graduates Number,Austria,2019,1242
+Medical graduates Number,Austria,2020,1288
+Medical graduates Number,Austria,2021,1455
+Medical graduates Number,Belgium,2010,980
+Medical graduates Number,Belgium,2011,1125
+Medical graduates Number,Belgium,2012,1180
+Medical graduates Number,Belgium,2013,1176
+Medical graduates Number,Belgium,2014,1289
+Medical graduates Number,Belgium,2015,1359
+Medical graduates Number,Belgium,2016,1614
+Medical graduates Number,Belgium,2017,1684
+Medical graduates Number,Belgium,2018,3282
+Medical graduates Number,Belgium,2019,2020
+Medical graduates Number,Belgium,2020,1917
+Medical graduates Number,Belgium,2021,1898
+Medical graduates Number,Belgium,2022,1833
+Medical graduates Number,Canada,2010,2447
+Medical graduates Number,Canada,2011,2526
+Medical graduates Number,Canada,2012,2643
+Medical graduates Number,Canada,2013,2658
+Medical graduates Number,Canada,2014,2795
+Medical graduates Number,Canada,2015,2813
+Medical graduates Number,Canada,2016,2847
+Medical graduates Number,Canada,2017,2811
+Medical graduates Number,Canada,2018,2863
+Medical graduates Number,Canada,2019,2856
+Medical graduates Number,Canada,2020,2876
+Medical graduates Number,Canada,2021,2861
+Medical graduates Number,Czechia,2010,1458
+Medical graduates Number,Czechia,2011,1460
+Medical graduates Number,Czechia,2012,1591
+Medical graduates Number,Czechia,2013,1338
+Medical graduates Number,Czechia,2014,1473
+Medical graduates Number,Czechia,2015,1430
+Medical graduates Number,Czechia,2016,1596
+Medical graduates Number,Czechia,2017,1815
+Medical graduates Number,Czechia,2018,1700
+Medical graduates Number,Czechia,2019,1718
+Medical graduates Number,Czechia,2020,1771
+Medical graduates Number,Czechia,2021,1790
+Medical graduates Number,Denmark,2010,912
+Medical graduates Number,Denmark,2011,949
+Medical graduates Number,Denmark,2012,865
+Medical graduates Number,Denmark,2013,848
+Medical graduates Number,Denmark,2014,816
+Medical graduates Number,Denmark,2015,969
+Medical graduates Number,Denmark,2016,1230
+Medical graduates Number,Denmark,2017,1281
+Medical graduates Number,Denmark,2018,1335
+Medical graduates Number,Denmark,2019,1234
+Medical graduates Number,Denmark,2020,1284
+Medical graduates Number,Finland,2010,656
+Medical graduates Number,Finland,2011,583
+Medical graduates Number,Finland,2012,604
+Medical graduates Number,Finland,2013,564
+Medical graduates Number,Finland,2014,636
+Medical graduates Number,Finland,2015,625
+Medical graduates Number,Finland,2016,661
+Medical graduates Number,Finland,2017,574
+Medical graduates Number,Finland,2018,645
+Medical graduates Number,Finland,2019,657
+Medical graduates Number,Finland,2020,674
+Medical graduates Number,Finland,2021,702
+Medical graduates Number,France,2010,3740
+Medical graduates Number,France,2011,4384
+Medical graduates Number,France,2012,4717
+Medical graduates Number,France,2013,5040
+Medical graduates Number,France,2014,5365
+Medical graduates Number,France,2015,6025
+Medical graduates Number,France,2016,6314
+Medical graduates Number,France,2017,7252
+Medical graduates Number,France,2018,6387
+Medical graduates Number,France,2019,6708
+Medical graduates Number,France,2020,8069
+Medical graduates Number,Germany,2010,9894
+Medical graduates Number,Germany,2011,9572
+Medical graduates Number,Germany,2012,9587
+Medical graduates Number,Germany,2013,9801
+Medical graduates Number,Germany,2014,9599
+Medical graduates Number,Germany,2015,9215
+Medical graduates Number,Germany,2016,9647
+Medical graduates Number,Germany,2017,9928
+Medical graduates Number,Germany,2018,9563
+Medical graduates Number,Germany,2019,10234
+Medical graduates Number,Germany,2020,10007
+Medical graduates Number,Germany,2021,10320
+Medical graduates Number,Greece,2010,1038
+Medical graduates Number,Greece,2011,1096
+Medical graduates Number,Greece,2012,1017
+Medical graduates Number,Greece,2013,1022
+Medical graduates Number,Greece,2014,970
+Medical graduates Number,Greece,2015,1162
+Medical graduates Number,Greece,2016,1101
+Medical graduates Number,Greece,2017,1334
+Medical graduates Number,Greece,2018,1344
+Medical graduates Number,Greece,2019,1449
+Medical graduates Number,Greece,2020,1465
+Medical graduates Number,Hungary,2010,1040
+Medical graduates Number,Hungary,2011,1148
+Medical graduates Number,Hungary,2012,1374
+Medical graduates Number,Hungary,2013,1405
+Medical graduates Number,Hungary,2014,1347
+Medical graduates Number,Hungary,2015,1319
+Medical graduates Number,Hungary,2016,1388
+Medical graduates Number,Hungary,2017,1410
+Medical graduates Number,Hungary,2018,1560
+Medical graduates Number,Hungary,2019,1540
+Medical graduates Number,Hungary,2020,1532
+Medical graduates Number,Hungary,2021,1574
+Medical graduates Number,Iceland,2010,44
+Medical graduates Number,Iceland,2011,44
+Medical graduates Number,Iceland,2012,49
+Medical graduates Number,Iceland,2013,40
+Medical graduates Number,Iceland,2014,53
+Medical graduates Number,Iceland,2015,42
+Medical graduates Number,Iceland,2016,53
+Medical graduates Number,Iceland,2017,50
+Medical graduates Number,Iceland,2018,48
+Medical graduates Number,Iceland,2019,41
+Medical graduates Number,Ireland,2010,785
+Medical graduates Number,Ireland,2011,738
+Medical graduates Number,Ireland,2012,781
+Medical graduates Number,Ireland,2013,931
+Medical graduates Number,Ireland,2014,1009
+Medical graduates Number,Ireland,2015,1107
+Medical graduates Number,Ireland,2016,1162
+Medical graduates Number,Ireland,2017,1196
+Medical graduates Number,Ireland,2018,1254
+Medical graduates Number,Ireland,2019,1225
+Medical graduates Number,Ireland,2020,1268
+Medical graduates Number,Ireland,2021,1310
+Medical graduates Number,Italy,2010,6732
+Medical graduates Number,Italy,2011,6699
+Medical graduates Number,Italy,2012,6635
+Medical graduates Number,Italy,2013,6706
+Medical graduates Number,Italy,2014,6981
+Medical graduates Number,Italy,2015,7500
+Medical graduates Number,Italy,2016,8032
+Medical graduates Number,Italy,2017,9120
+Medical graduates Number,Italy,2018,10129
+Medical graduates Number,Italy,2019,10511
+Medical graduates Number,Italy,2020,11213
+Medical graduates Number,Italy,2021,10788
+Medical graduates Number,Japan,2010,7619
+Medical graduates Number,Japan,2011,7631
+Medical graduates Number,Japan,2012,7501
+Medical graduates Number,Japan,2013,7639
+Medical graduates Number,Japan,2014,7652
+Medical graduates Number,Japan,2015,8118
+Medical graduates Number,Japan,2016,8529
+Medical graduates Number,Japan,2017,8673
+Medical graduates Number,Japan,2018,8751
+Medical graduates Number,Japan,2019,9003
+Medical graduates Number,Japan,2020,8757
+Medical graduates Number,Japan,2021,9013
+Medical graduates Number,Japan,2022,9095
+Medical graduates Number,Korea,2010,4027
+Medical graduates Number,Korea,2011,3928
+Medical graduates Number,Korea,2012,3993
+Medical graduates Number,Korea,2013,3905
+Medical graduates Number,Korea,2014,3955
+Medical graduates Number,Korea,2015,3861
+Medical graduates Number,Korea,2016,3886
+Medical graduates Number,Korea,2017,3898
+Medical graduates Number,Korea,2018,3860
+Medical graduates Number,Korea,2019,3827
+Medical graduates Number,Korea,2020,3742
+Medical graduates Number,Korea,2021,3757
+Medical graduates Number,Luxembourg,2010,NA
+Medical graduates Number,Luxembourg,2011,NA
+Medical graduates Number,Luxembourg,2012,NA
+Medical graduates Number,Luxembourg,2013,NA
+Medical graduates Number,Luxembourg,2014,NA
+Medical graduates Number,Luxembourg,2015,NA
+Medical graduates Number,Luxembourg,2016,NA
+Medical graduates Number,Luxembourg,2017,NA
+Medical graduates Number,Luxembourg,2018,NA
+Medical graduates Number,Luxembourg,2019,NA
+Medical graduates Number,Luxembourg,2020,NA
+Medical graduates Number,Luxembourg,2021,NA
+Medical graduates Number,Luxembourg,2022,NA
+Medical graduates Number,Mexico,2010,13033
+Medical graduates Number,Mexico,2011,13647
+Medical graduates Number,Mexico,2012,13998
+Medical graduates Number,Mexico,2013,12077
+Medical graduates Number,Mexico,2014,12905
+Medical graduates Number,Mexico,2015,13334
+Medical graduates Number,Mexico,2016,15328
+Medical graduates Number,Mexico,2017,16586
+Medical graduates Number,Mexico,2018,15346
+Medical graduates Number,Mexico,2019,17408
+Medical graduates Number,Mexico,2020,14838
+Medical graduates Number,Mexico,2021,19327
+Medical graduates Number,Netherlands,2010,2276
+Medical graduates Number,Netherlands,2011,2460
+Medical graduates Number,Netherlands,2012,2470
+Medical graduates Number,Netherlands,2013,2420
+Medical graduates Number,Netherlands,2014,2450
+Medical graduates Number,Netherlands,2015,2480
+Medical graduates Number,Netherlands,2016,2610
+Medical graduates Number,Netherlands,2017,2730
+Medical graduates Number,Netherlands,2018,2720
+Medical graduates Number,Netherlands,2019,2620
+Medical graduates Number,Netherlands,2020,2500
+Medical graduates Number,Netherlands,2021,2710
+Medical graduates Number,New Zealand,2010,317
+Medical graduates Number,New Zealand,2011,351
+Medical graduates Number,New Zealand,2012,348
+Medical graduates Number,New Zealand,2013,379
+Medical graduates Number,New Zealand,2014,392
+Medical graduates Number,New Zealand,2015,399
+Medical graduates Number,New Zealand,2016,444
+Medical graduates Number,New Zealand,2017,437
+Medical graduates Number,New Zealand,2018,474
+Medical graduates Number,New Zealand,2019,493
+Medical graduates Number,New Zealand,2020,528
+Medical graduates Number,New Zealand,2021,543
+Medical graduates Number,Norway,2010,551
+Medical graduates Number,Norway,2011,568
+Medical graduates Number,Norway,2012,619
+Medical graduates Number,Norway,2013,578
+Medical graduates Number,Norway,2014,567
+Medical graduates Number,Norway,2015,580
+Medical graduates Number,Norway,2016,580
+Medical graduates Number,Norway,2017,586
+Medical graduates Number,Norway,2018,542
+Medical graduates Number,Norway,2019,606
+Medical graduates Number,Norway,2020,587
+Medical graduates Number,Norway,2021,555
+Medical graduates Number,Poland,2010,3081
+Medical graduates Number,Poland,2011,3349
+Medical graduates Number,Poland,2012,3549
+Medical graduates Number,Poland,2013,3757
+Medical graduates Number,Poland,2014,3689
+Medical graduates Number,Poland,2015,3888
+Medical graduates Number,Poland,2016,3983
+Medical graduates Number,Poland,2017,4157
+Medical graduates Number,Poland,2018,4006
+Medical graduates Number,Poland,2019,4546
+Medical graduates Number,Poland,2020,4638
+Medical graduates Number,Poland,2021,5067
+Medical graduates Number,Portugal,2010,1262
+Medical graduates Number,Portugal,2011,1287
+Medical graduates Number,Portugal,2012,1394
+Medical graduates Number,Portugal,2013,1426
+Medical graduates Number,Portugal,2014,1554
+Medical graduates Number,Portugal,2015,1642
+Medical graduates Number,Portugal,2016,1698
+Medical graduates Number,Portugal,2017,1657
+Medical graduates Number,Portugal,2018,1760
+Medical graduates Number,Portugal,2019,1629
+Medical graduates Number,Portugal,2020,1619
+Medical graduates Number,Portugal,2021,1682
+Medical graduates Number,Slovak Republic,2010,635
+Medical graduates Number,Slovak Republic,2011,684
+Medical graduates Number,Slovak Republic,2012,735
+Medical graduates Number,Slovak Republic,2013,863
+Medical graduates Number,Slovak Republic,2014,732
+Medical graduates Number,Slovak Republic,2015,848
+Medical graduates Number,Slovak Republic,2016,871
+Medical graduates Number,Slovak Republic,2017,918
+Medical graduates Number,Slovak Republic,2018,962
+Medical graduates Number,Slovak Republic,2019,984
+Medical graduates Number,Slovak Republic,2020,1081
+Medical graduates Number,Slovak Republic,2021,1044
+Medical graduates Number,Spain,2010,4299
+Medical graduates Number,Spain,2011,4199
+Medical graduates Number,Spain,2012,4457
+Medical graduates Number,Spain,2013,4770
+Medical graduates Number,Spain,2014,5571
+Medical graduates Number,Spain,2015,6053
+Medical graduates Number,Spain,2016,6226
+Medical graduates Number,Spain,2017,6749
+Medical graduates Number,Spain,2018,6664
+Medical graduates Number,Spain,2019,6574
+Medical graduates Number,Spain,2020,6600
+Medical graduates Number,Spain,2021,6718
+Medical graduates Number,Sweden,2010,969
+Medical graduates Number,Sweden,2011,1011
+Medical graduates Number,Sweden,2012,1131
+Medical graduates Number,Sweden,2013,987
+Medical graduates Number,Sweden,2014,1091
+Medical graduates Number,Sweden,2015,1216
+Medical graduates Number,Sweden,2016,1189
+Medical graduates Number,Sweden,2017,1281
+Medical graduates Number,Sweden,2018,1334
+Medical graduates Number,Sweden,2019,1385
+Medical graduates Number,Sweden,2020,1405
+Medical graduates Number,Sweden,2021,1474
+Medical graduates Number,Switzerland,2010,813
+Medical graduates Number,Switzerland,2011,744
+Medical graduates Number,Switzerland,2012,782
+Medical graduates Number,Switzerland,2013,786
+Medical graduates Number,Switzerland,2014,863
+Medical graduates Number,Switzerland,2015,894
+Medical graduates Number,Switzerland,2016,885
+Medical graduates Number,Switzerland,2017,946
+Medical graduates Number,Switzerland,2018,995
+Medical graduates Number,Switzerland,2019,1017
+Medical graduates Number,Switzerland,2020,1115
+Medical graduates Number,Switzerland,2021,1089
+Medical graduates Number,Türkiye,2010,5138
+Medical graduates Number,Türkiye,2011,4981
+Medical graduates Number,Türkiye,2012,4949
+Medical graduates Number,Türkiye,2013,5172
+Medical graduates Number,Türkiye,2014,5175
+Medical graduates Number,Türkiye,2015,6896
+Medical graduates Number,Türkiye,2016,7651
+Medical graduates Number,Türkiye,2017,8530
+Medical graduates Number,Türkiye,2018,9395
+Medical graduates Number,Türkiye,2019,10854
+Medical graduates Number,Türkiye,2020,11909
+Medical graduates Number,Türkiye,2021,13239
+Medical graduates Number,United Kingdom,2010,8490
+Medical graduates Number,United Kingdom,2011,8435
+Medical graduates Number,United Kingdom,2012,8840
+Medical graduates Number,United Kingdom,2013,8450
+Medical graduates Number,United Kingdom,2014,8690
+Medical graduates Number,United Kingdom,2015,8860
+Medical graduates Number,United Kingdom,2016,8490
+Medical graduates Number,United Kingdom,2017,8590
+Medical graduates Number,United Kingdom,2018,8570
+Medical graduates Number,United Kingdom,2019,8730
+Medical graduates Number,United Kingdom,2020,8750
+Medical graduates Number,United Kingdom,2021,8835
+Medical graduates Number,United Kingdom,2022,9140
+Medical graduates Number,United States,2010,20469
+Medical graduates Number,United States,2011,21522
+Medical graduates Number,United States,2012,21799
+Medical graduates Number,United States,2013,22963
+Medical graduates Number,United States,2014,23069
+Medical graduates Number,United States,2015,24026
+Medical graduates Number,United States,2016,24415
+Medical graduates Number,United States,2017,25277
+Medical graduates Number,United States,2018,25978
+Medical graduates Number,United States,2019,26640
+Medical graduates Number,United States,2020,27328
+Medical graduates Number,United States,2021,28337
+Medical graduates Number,Chile,2010,1248
+Medical graduates Number,Chile,2011,1193
+Medical graduates Number,Chile,2012,1632
+Medical graduates Number,Chile,2013,1294
+Medical graduates Number,Chile,2014,1537
+Medical graduates Number,Chile,2015,1693
+Medical graduates Number,Chile,2016,1644
+Medical graduates Number,Chile,2017,1597
+Medical graduates Number,Chile,2018,1637
+Medical graduates Number,Chile,2019,1745
+Medical graduates Number,Chile,2020,1768
+Medical graduates Number,Chile,2021,500
+Medical graduates Number,Chile,2022,2536
+Medical graduates Number,Estonia,2010,149
+Medical graduates Number,Estonia,2011,125
+Medical graduates Number,Estonia,2012,136
+Medical graduates Number,Estonia,2013,128
+Medical graduates Number,Estonia,2014,139
+Medical graduates Number,Estonia,2015,133
+Medical graduates Number,Estonia,2016,145
+Medical graduates Number,Estonia,2017,151
+Medical graduates Number,Estonia,2018,136
+Medical graduates Number,Estonia,2019,138
+Medical graduates Number,Estonia,2020,138
+Medical graduates Number,Estonia,2021,157
+Medical graduates Number,Estonia,2022,164
+Medical graduates Number,Israel,2010,314
+Medical graduates Number,Israel,2011,377
+Medical graduates Number,Israel,2012,304
+Medical graduates Number,Israel,2013,408
+Medical graduates Number,Israel,2014,517
+Medical graduates Number,Israel,2015,458
+Medical graduates Number,Israel,2016,578
+Medical graduates Number,Israel,2017,601
+Medical graduates Number,Israel,2018,658
+Medical graduates Number,Israel,2019,654
+Medical graduates Number,Israel,2020,639
+Medical graduates Number,Israel,2021,637
+Medical graduates Number,Slovenia,2021,273
+Medical graduates Number,Lithuania,2010,391
+Medical graduates Number,Lithuania,2011,407
+Medical graduates Number,Lithuania,2012,394
+Medical graduates Number,Lithuania,2013,438
+Medical graduates Number,Lithuania,2014,429
+Medical graduates Number,Lithuania,2015,476
+Medical graduates Number,Lithuania,2016,462
+Medical graduates Number,Lithuania,2017,545
+Medical graduates Number,Lithuania,2018,554
+Medical graduates Number,Lithuania,2019,552
+Medical graduates Number,Lithuania,2020,571
+Medical graduates Number,Lithuania,2021,571
+Medical graduates Number,Latvia,2010,179
+Medical graduates Number,Latvia,2011,232
+Medical graduates Number,Latvia,2012,234
+Medical graduates Number,Latvia,2013,271
+Medical graduates Number,Latvia,2014,280
+Medical graduates Number,Latvia,2015,320
+Medical graduates Number,Latvia,2016,320
+Medical graduates Number,Latvia,2017,337
+Medical graduates Number,Latvia,2018,428
+Medical graduates Number,Latvia,2019,450
+Medical graduates Number,Latvia,2020,454
+Medical graduates Number,Latvia,2021,515
+Medical graduates Number,Latvia,2022,517
+Medical graduates Number,Colombia,2010,4180
+Medical graduates Number,Colombia,2011,4088
+Medical graduates Number,Colombia,2012,4467
+Medical graduates Number,Colombia,2013,4973
+Medical graduates Number,Colombia,2014,4396
+Medical graduates Number,Colombia,2015,4830
+Medical graduates Number,Colombia,2016,5246
+Medical graduates Number,Colombia,2017,5748
+Medical graduates Number,Colombia,2018,6429
+Medical graduates Number,Colombia,2019,6319
+Medical graduates Number,Colombia,2020,5955
+Medical graduates Number,Croatia,2010,518
+Medical graduates Number,Croatia,2011,503
+Medical graduates Number,Croatia,2012,482
+Medical graduates Number,Croatia,2013,445
+Medical graduates Number,Croatia,2014,636
+Medical graduates Number,Croatia,2015,513
+Medical graduates Number,Croatia,2016,607
+Medical graduates Number,Croatia,2017,579
+Medical graduates Number,Croatia,2018,627
+Medical graduates Number,Croatia,2019,689
+Medical graduates Number,Croatia,2020,677
+Medical graduates Number,Croatia,2021,654
+Medical graduates Number,Romania,2010,2900
+Medical graduates Number,Romania,2011,3031
+Medical graduates Number,Romania,2012,3170
+Medical graduates Number,Romania,2013,2963
+Medical graduates Number,Romania,2014,3497
+Medical graduates Number,Romania,2015,3892
+Medical graduates Number,Romania,2016,4368
+Medical graduates Number,Romania,2017,4610
+Medical graduates Number,Romania,2018,5076
+Medical graduates Number,Romania,2019,4967
+Medical graduates Number,Romania,2020,5067
+Medical graduates Number,Romania,2021,5006
+Medical graduates Number,Bulgaria,2010,597
+Medical graduates Number,Bulgaria,2011,602
+Medical graduates Number,Bulgaria,2012,630
+Medical graduates Number,Bulgaria,2013,691
+Medical graduates Number,Bulgaria,2014,772
+Medical graduates Number,Bulgaria,2015,837
+Medical graduates Number,Bulgaria,2016,859
+Medical graduates Number,Bulgaria,2017,1052
+Medical graduates Number,Bulgaria,2018,1102
+Medical graduates Number,Bulgaria,2019,1350
+Medical graduates Number,Bulgaria,2020,1414
+Medical graduates Number,Bulgaria,2021,1564
